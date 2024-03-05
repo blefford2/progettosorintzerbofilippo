@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(123, 0, 180);
+    display: flex;
+justify-content: space-between;
+}
+
+.logo{
+    width: 100px;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
